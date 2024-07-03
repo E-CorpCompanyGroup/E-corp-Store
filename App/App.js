@@ -6,5 +6,6 @@ APPNAME('Advace-Native');
 
 MODULE('../../Connection/Connection.js','CONNECTION',(CONNECTION) => {CONNECTION()});
   
+SERVICEWORKER();
 
 });

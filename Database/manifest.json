@@ -1,7 +1,7 @@
 {
-  "name": "Advance",
-  "short_name": "Advance",
-  "description": "Build For All",
+  "name": "E-corp Store",
+  "short_name": "E-corp Store",
+  "description": "App Store For E-corp Company Group",
   "icons": [
     {
       "src": "windows11/SmallTile.scale-100.png",
