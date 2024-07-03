@@ -43,7 +43,7 @@ export const HOMEPAGE=()=>{
 
             EVENT(AppHolder,'click',()=>{
 
-                alert('')
+                open('https://e-corpcompanygroup.github.io/E-corp-Store/Modules/Apps/'+data.App);
 
             })
 
