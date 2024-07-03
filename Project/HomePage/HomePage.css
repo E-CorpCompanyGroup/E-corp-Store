@@ -1,0 +1,16 @@
+.AppLogo{
+    width: 50%;
+    margin: 20% 25%;
+}
+
+.AppName{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0.5rem;
+    font-size: 20px;
+}
+
+.rightIcon{
+    margin-right: 0.5rem;
+    width: 25px;
+}
