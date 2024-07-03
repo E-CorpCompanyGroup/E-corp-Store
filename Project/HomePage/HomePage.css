@@ -14,3 +14,48 @@
     margin-right: 0.5rem;
     width: 25px;
 }
+
+.HomeSearch{
+    width: 80%;
+    border: 1px solid #cdcdcd20;
+    border-radius: 10px;
+    padding: 0.1rem;
+}
+
+.AppHolder{
+    position: relative;
+    width: 160px;
+    height: 180px;
+    margin: 2%;
+    border-radius: 10px;
+    display: inline-table;
+    flex-shrink: 0;
+}
+
+.AppIcons{
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    padding: 3%;
+    top: 5%;
+    left: 5%;
+    background:orangered;
+    border-radius: 10px;
+}
+
+.Names{
+    position: absolute;
+    top: 0;
+    text-align: center;
+    right: 10%;
+    font-size: 16px;
+}
+
+.Install{
+    position: absolute;
+    bottom: 0;
+    height: 35px;
+    width: 100px;
+    left: 20%;
+    background: forestgreen;
+}
